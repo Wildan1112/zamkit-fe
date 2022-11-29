@@ -14,7 +14,11 @@ import LoginForm from "@/components/authentication/LoginForm.vue";
           </div>
           <LoginForm />
           <div class="w-full mx-auto mt-20 sm:max-w-2xl">
-            <img src="img/brand-logo.svg" alt="" class="w-full px-10 md:px-0" />
+            <img
+              src="/src/assets/img/brand-logo.svg"
+              alt=""
+              class="w-full px-10 md:px-0"
+            />
           </div>
         </div>
       </div>
